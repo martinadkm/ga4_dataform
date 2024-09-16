@@ -1,5 +1,5 @@
 defaultProject: data-warehouse-268716
-defaultLocation: us-east1
+defaultLocation: US
 defaultDataset: ga4_dataform
 defaultAssertionDataset: ga4_dataform_assertions
 dataformCoreVersion: 3.0.0-beta.4    
